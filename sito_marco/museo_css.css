@@ -1,0 +1,51 @@
+body {
+    border: none;
+    background: blue url("sfondo.jpg") no-repeat fixed top left;
+    background-size:100% 100% ;
+    margin: 80;
+    padding: 0;
+    font-family: Verdana, Arial, sans-serif;
+}
+header {
+    border: none;
+    margin: 0;
+    padding: 1%;
+}
+nav {
+    border: none;
+    border-radius: 10px;
+    background-color: rgba(209, 201, 208, 0.075);
+    margin: 1%;
+    padding: 1%;
+}
+
+
+footer {
+    border: none;
+    border-radius: 10px;
+    background-color: rgba(255, 173, 248, 0.9);
+    clear: both;
+    text-align: center;
+    margin: 1%;
+    padding: 1%;
+}
+nav ul, aside ul { 
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+nav li {
+    display: inline;
+    
+}
+nav li a {
+    border-radius: 10px;
+    padding: 0.5%;
+    font-weight: bold;
+    text-decoration: none;
+    color:black;
+}
+nav li a:hover{
+    background-color: navy;
+    color: rgb(250, 250, 250);
+}
