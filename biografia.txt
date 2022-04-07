@@ -1,0 +1,128 @@
+biografia:
+sono marco tateo, dirigente di un azienda "elettronica S.r.l", sono laureato in ingegneria elettronica.
+Dopo aver lavorato come ingegnere elettronico per numerose aziende nel corso degli anni, ho deciso di fare il grande passo e di avviare la mia attività di imprenditore....
+ Ho amato le nuove sfide che ho affrontato come nuovo imprenditore, e  non mi ci è voluto molto per scoprire che questa era la mia vocazione....
+ Ho sentito la necessità di espandere la mia attività e di lanciare elettronia S.r.l come entità a sé stante per concentrarmi in modo specifico ".
+
+in cosa sono specializzato:
+sono specializzato in ingegneria informatica, consco approfonditamente gli aspetti teoricoscientifici della matematica e delle altre scienze di base;
+ -sono capace di utilizzare le conoscenze per interpretare e descrivere problemi dell'ingegneria complessi o che richiedono un approccio interdisciplinare;
+ -conosco approfonditamente gli aspetti teoricoscientifici dell'ingegneria, sia in generale sia in modo approfondito, relativamente all'ambito dell'automazione e dell'informatica;
+ -sono capace di ideare, pianificare, progettare e gestire sistemi, processi e servizi complessi e/o innovativi;
+ -sono capace di progettare e gestire esperimenti di elevata complessità;
+ -sono dotato di conoscenze applicative e di capacità trasversali;
+ -conosco il campo dell'organizzazione aziendale e dell'etica professionale;
+L'impostazione didattica del corso di laurea che ho frequentato è comune a tutti,
+ gli insegnamenti prevede che la formazione teorica sia accompagnata da esemplificazioni, applicazioni,
+ lavori individuali e di gruppo, verifiche che sollecitino la partecipazione attiva, l'attitudine propositiva,
+ la capacità di elaborazione autonoma, di comunicazione dei risultati del lavoro svolto e di generalizzazione delle conoscenze acquisite, 
+in modo tale da poter affrontare e risolvere autonomamente i problemi posti dall'innovazione.
+ Le capacità di giudizio autonomo, maturate durante tutto il percorso di studi nei singoli insegnamenti,
+ trovano un momento di consolidamento e verifica nello svolgimento di un tirocinio presso dipartimenti universitari, 
+aziende o enti di ricerca pubblici e privati.
+
+chi siamo e cosa facciamo:
+Con l'esplosione dell' IoT e dei dispositivi collegati, il mondo dell'elettronica è tornato sotto i riflettori.
+ I dispositivi elettronici permettono alle nostre auto di guidare da sole (quasi), di monitorare la nostra salute,
+ di garantire la cura dei nostri parenti più stretti e di giocare a giochi super-realistici.
+
+I servizi di produzione elettronica (EMS) sono quelli offerti dalle aziende che progettano, ingegnerizzano, prototipano,
+ testano e producono parti elettroniche e prodotti finali. 
+Scegliere saggiamente il vostro partner EMS può darvi un enorme vantaggio sulla concorrenza.
+Diamo un'occhiata più da vicino a questi servizi:
+
+ASSEMBLAGGIO PCB
+L'assemblaggio di circuiti stampati, o PCB, è il processo di saldatura di componenti elettronici come transistor, resistenze, ecc. su una scheda vuota.
+ Può essere fatto con due metodi: Tecnologia a montaggio superficiale (SMD) e tecnologia a foro passante (THT).
+ La THT è la più antica delle due, richiede una maggiore interazione umana ed è suggerita per i componenti che devono resistere alle sollecitazioni meccaniche.
+ L'SMD è più avanzata ed è lo standard per la maggior parte dei prodotti moderni.
+
+ASSEMBLAGGIO CAVI
+Il montaggio dei cavi è una grande famiglia di servizi, che è composta da:
+
+Assemblaggi di cavi per ambienti difficili;
+Imbracature;
+Pannelli di controllo/scatole;
+Sottogruppi meccanici;
+Cablaggio e montaggio dei pannelli.
+Un buon EMS si occuperà di progettare, testare e produrre i cablaggi adatti al vostro prodotto. Spesso vengono effettuati dei test per verificarne la funzionalità e la resistenza. Alcuni possono essere automatizzati, e i più comuni sono Hipot (test ad alto potenziale), dove la corrente ad alta tensione scorre attraverso il cavo, e test di continuità, dove non scorre corrente.
+
+ASSEMBLAGGIO ELETTROMECCANICO
+Molte società EMS si occupano non solo dell'elettronica, ma anche del prodotto finale. Ciò significa offrirne anche l'assemblaggio nel suo involucro,
+ che può essere fatto con diversi materiali, solitamente acciaio, alluminio o plastica.
+ Il servizio di assemblaggio finale è di solito offerto da tutti gli EMS che hanno un impianto di produzione interno.
+
+Altri servizi potrebbero essere:
+
+Imballaggio e spedizione personalizzati;
+Test funzionali;
+Gestione della configurazione;
+Incapsulamento;
+Modellazione 3D;
+Invasatura e termoretrazione.
+Non dimenticate che l'assemblaggio finale ha un impatto sulle prestazioni e sulla qualità del prodotto.
+ L'EMS certificato garantirà che anche questa delicata fase sia completata con successo, 
+e che il vostro prodotto sia conforme agli standard e alle normative del suo settore.
+
+PROGETTAZIONE DEL PRODOTTO
+Il design di un prodotto è importante, non solo per ragioni estetiche, ma anche per il suo corretto funzionamento.
+ Molti SGA, come Hemargroup, offrono un team di ingegneri dedicato, che può aiutarvi nelle prime fasi di sviluppo del vostro progetto.
+ Alcuni dei servizi di un buon team di ingegneri sono:
+
+Software e firmware;
+Test di validazione;
+Analisi DFX (design for manufacturing, economicità);
+Test ambientali per la conformità;
+Simulazione di circuiti;
+Prototipazione;
+Supporto brevetti;
+Test;
+Previsione dei costi;
+CAD 3D e modellazione fisica;
+Studi di fattibilità tecnica;
+Revisione della qualità.
+Quindi, un ottimo EMS offre un supporto a 360° a qualsiasi fase del vostro percorso di sviluppo del prodotto,
+ offrendo evidenti vantaggi in termini di efficienza ed efficacia dell'intero processo.
+
+TEST
+Ogni prodotto, prima di arrivare sugli scaffali, necessita di test appropriati per verificarne il corretto funzionamento.
+ Saltare questi test, soprattutto nel caso di prodotti "speciali", come quelli per uso medico o militare,
+ può causare enormi costi economici e di reputazione. Ancora prima, i prodotti devono essere testati per la loro effettiva capacità produttiva.
+ Ecco perché un SGA in grado di supportare l'intero progetto è utile.
+
+Ecco un elenco (non esaustivo) dei principali test eseguiti su un PCB:
+
+Prova con la sonda mobile;
+Test in circuito (ICT);
+Test di burn-in;
+Ispezione ottica automatica (AOI);
+Test funzionale del circuito (FCT)
+Altri test speciali/su misura.
+PROTOTIPAZIONE
+La costruzione di un prototipo è una necessità per ogni azienda.
+ Servirà come base per testare l'idea iniziale, 
+la conformità agli standard e può essere utilizzato come MVP per raccogliere i primi feedback da parte di investitori e clienti.
+
+Di solito, la prototipazione viene fatta per i test di:
+
+Guasti
+Durabilità
+Budgeting
+Ispezione e conferma delle caratteristiche
+Certificazioni e conformità
+Potete saperne di più sulla prototipazione di PCB qui.
+
+
+AFTER-SALES 
+Il supporto EMS non si esaurisce con la semplice produzione del vostro dispositivo.
+ Dalla riparazione al miglioramento del prodotto fino alla consulenza per l'aggiornamento,
+ un buon fornitore vi supporterà anche dopo che il vostro prodotto avrà raggiunto il mercato. 
+
+Ecco una lista di servizi post-vendita:
+
+Riparazione - Rework;
+Ristrutturazione;
+Calibrazione;
+Analisi dei guasti;
+Analisi del ciclo di vita e dell'obsolescenza dei componenti
+Aggiornamento.
